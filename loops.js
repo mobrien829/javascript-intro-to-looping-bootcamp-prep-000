@@ -23,6 +23,6 @@ function maybeTrue() {
 
 function doWhileLoop(array) {
   do {
-    array.unshift()
+    array.shift()
   } while (maybeTrue())
 }
