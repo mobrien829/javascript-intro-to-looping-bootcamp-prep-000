@@ -7,3 +7,5 @@ function forLoop(array) {
     else array.push() {
       console.log("I am ${i} strange loops.")
     }
+  }
+}
