@@ -12,10 +12,10 @@ function forLoop(array) {
 
 function whileLoop(n) {
   while(n > 0) {
-    if (n > 1) {
+    if (n > 0) {
       console.log(--n)
     }
-    else {
+    else if (n < 0) {
       return 'done'
     }
   }
