@@ -6,3 +6,5 @@ function forLoop(array) {
     else if (i > 1) {
       array.push(console.log ("I am ${i} strange loops."))
     }
+  }
+}
